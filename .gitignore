@@ -1,0 +1,16 @@
+/.idea/**
+/.gradle/**
+
+/build/**
+/.settings/**
+/.externalToolBuilders/**
+/.project
+/.classpath
+/.factorypath
+/.settings
+
+# Gradle wrappers
+gradle/wrapper/gradle-wrapper.jar
+
+gradlew
+gradlew.bat
